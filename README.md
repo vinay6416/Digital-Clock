@@ -1,7 +1,4 @@
 # Digital Clock
-
-![Digital Clock Screenshot](Digital clock image.png)
-
 A simple and attractive Digital Clock built using HTML, CSS, and JavaScript.
 
 ## 📌 Project Description

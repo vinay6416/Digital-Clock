@@ -1,6 +1,6 @@
 # Digital Clock
 
-![Digital Clock Screenshot](clock.png)
+![Digital Clock Screenshot](Digital clock image.png)
 
 A simple and attractive Digital Clock built using HTML, CSS, and JavaScript.
 
@@ -37,5 +37,5 @@ DigitalClock/
 ├── index.html
 ├── style.css
 ├── script.js
-├── clock.png
+├── Digital clock image.png
 └── README.md
